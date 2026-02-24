@@ -1,0 +1,13 @@
+{
+  "client_id": "https://gist.githubusercontent.com/briceyan/774ae4e7205aab1d7a82df63900d0150/raw/056f4eee9d477cbda7a556475a43108b15c976f5/mcat-metadata.json",
+  "client_name": "Example MCP Client",
+  "client_uri": "https://app.example.com",
+  "logo_uri": "https://app.example.com/logo.png",
+  "redirect_uris": [
+    "http://127.0.0.1:3000/callback",
+    "http://localhost:3000/callback"
+  ],
+  "grant_types": ["authorization_code"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none"
+}
