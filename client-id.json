@@ -1,5 +1,5 @@
 {
-  "client_id": "https://raw.githubusercontent.com/by3gus/mcat/refs/heads/main/client-id.json",
+  "client_id": "https://raw.githubusercontent.com/by3gus/mcat/main/client-id.json",
   "client_name": "Example MCP Client",
   "client_uri": "https://app.example.com",
   "logo_uri": "https://app.example.com/logo.png",
